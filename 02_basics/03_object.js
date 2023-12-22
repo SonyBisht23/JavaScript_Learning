@@ -1,5 +1,5 @@
 // singleton:object ko literals ki trh declare karne pr banege
-//condtructor se multiple instances bnte hai
+//constructor se multiple instances bnte hai
 
 //Object Literals
 
