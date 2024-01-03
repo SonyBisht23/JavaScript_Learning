@@ -36,5 +36,40 @@ function loginUserMessage(username="david"){
 // console.log(loginUserMessage("Sony"));
 // console.log(loginUserMessage(""));
 // console.log(loginUserMessage());
-console.log(loginUserMessage("Sony"));
-console.log(loginUserMessage());
+//console.log(loginUserMessage("Sony"));
+// console.log(loginUserMessage());
+
+// function calculateCartPrice(num1){
+//     return num1;
+// }
+// console.log(calculateCartPrice(2))
+// console.log(calculateCartPrice(200,300,400));
+
+// function calculateCartPrice(...num){
+//     return num
+// }
+// console.log(calculateCartPrice(200,400,600));
+
+// function calculateCartPrice(v1,v2,...num){
+//     return num;
+// }
+// console.log(calculateCartPrice(20,23,34,56,7,8));
+
+
+// const user={
+//     username:"Sam",
+//     price:399
+// }
+// function check(objCk){
+//     return `username is ${objCk.username} and price is ${objCk.price}`;
+// }
+// // console.log(check(user));
+// console.log(check({username:"San",price:789}));
+
+
+const myarr=[34,6,7,21];
+function returnArr(arrar){
+    return arrar[1]
+}
+// console.log(returnArr(myarr));
+console.log(returnArr([23,89,5,87]));
